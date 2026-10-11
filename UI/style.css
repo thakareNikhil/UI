@@ -1,1 +1,5 @@
-p{color:aqua}
+body{background-color: rgb(143, 229, 229);font-size: 20px;font-weight: bold;padding: 20px;align-items: center;text-align: center;}
+.b{border: 1px solid white;}
+.h{margin-bottom: 20px;text-align: center;}
+.f{border: 1px solid white;margin-top: 20px;}
+.login{border: 1px solid white;padding: 20px;margin: 0 auto;width: 50%;box-shadow: 12px 12px 12px magenta;background-color: black;color: rgb(47, 236, 201);text-align: left;}
